@@ -1,0 +1,6 @@
+{
+  "tests/test_azucarero.py": true,
+  "tests/test_cafetera.py": true,
+  "tests/test_dispensador_vasos.py": true,
+  "tests/test_maquina_cafe.py": true
+}
